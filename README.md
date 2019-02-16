@@ -5,4 +5,4 @@
 ![Image of Poster](poster.jpg)
 
 FYI, here is a script that tells you the sum of all even numbers between 0 and 100:
-- [link to mundaneMatn](mundaneMath.py)
+- [link to mundaneMath](mundaneMath.py)
