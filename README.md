@@ -1,6 +1,6 @@
 # Welcome
 
-![Image of Poster](https://github.com/TheFatAstroneer/SoftwareCarpentryWC3/poster.jpg)
+![Image of Poster](https://github.com/TheFatAstroneer/SoftwareCarpentryWC3/blob/master/poster.jpg)
 
 ### Markdown
 
