@@ -1,6 +1,6 @@
 # Welcome
 
-![Image of Poster](SoftwareCarpentryWC3/poster.jpg)
+![Image of Poster](poster.jpg)
 
 ### Markdown
 
